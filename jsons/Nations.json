@@ -1,38 +1,37 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "The Vale",
+		"leaderName": "Silvervale",
+		"adjective": ["Silver"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "The Vale welcomes you!",
+		"startIntroPart2": "(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠✧⁠*⁠⁠。",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You left us no choice. Sorry.",
+		"attacked": "Very well then. We are sorry.",
+		"defeated": "We did all we could but it wasnt enough. Good job!",
+		"introduction": "Hello! I hope we can be friends",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hello! Hope you are having a good day!",
+		"neutralLetsHearIt": ["Yea?","Intresting."],
+		"neutralNo": ["Yeah... sorry but no.","We have to refuse sorry!"],
+		"neutralYes": ["Yeah!","Of course.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Hello.",
+		"hateLetsHearIt": ["Hm?"],
+		"hateNo": ["Yeah... no.","We have to refuse"],
+		"hateYes": ["Sure.","Ok."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "May The Vale prosper!",
+		"tradeRequest": "We would like to ask for a favor.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [129,71,111],
+		"innerColor": [120,198,229],
+		"unique": "[20] range","All healing effects doubled",
+		"cities": ["The Vale","Expanse of The Vale 1","Expanse of The Vale 2","Expanse of The Vale 3","Expanse of The Vale 4","Expanse of The Vale 5","Expanse of The Vale 6","Expanse of The Vale 7","Expanse of The Vale 8",
+			"Expanse of The Vale 9","Expanse of The Vale 10","Expanse of The Vale 11","Expanse of The Vale 12","Expanse of The Vale 13","Expanse of The Vale 14","Expanse of The Vale 15","Expanse of The Vale 16","Expanse of The Vale 17","Expanse of The Vale 18",
+			"Expanse of The Vale 19","Expanse of The Vale 20","Expanse of The Vale 21","Expanse of The Vale 22","Expanse of The Vale 23","Expanse of The Vale 24","Expanse of The Vale 25","Expanse of The Vale 26","Expanse of The Vale 27","Expanse of The Vale 28"]
 	}
 ]
