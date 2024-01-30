@@ -4,9 +4,9 @@
 		"unitType": "Melee",
 		"uniqueTo": "The Vale",
 		"replaces": "Warrior",
-		"movement": 20,
-		"strength": 9000,
-		"rangedStrength": 3006,
+		"movement": 15,
+		"strength": 900,
+		"rangedStrength": 300,
 		"range": 20,
 		"cost": 4,
 	}
