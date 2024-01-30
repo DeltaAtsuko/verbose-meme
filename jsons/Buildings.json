@@ -2,7 +2,7 @@
 	{
 		"name": "The Shrine Of The Vale",
 		"replaces": "Shrine",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "The Vale",
 		"cost": 2,
 		"happiness": 120,
 		"culture": 300,
