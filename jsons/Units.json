@@ -1,17 +1,13 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Soldier of The Vale",
+		"unitType": "Melee",
+		"uniqueTo": "The Vale",
+		"replaces": "Warrior",
+		"movement": 200,
+		"strength": 9000,
+		"rangedStrength": 3006,
+		"range": 200,
+		"cost": 4,
 	}
 ]
